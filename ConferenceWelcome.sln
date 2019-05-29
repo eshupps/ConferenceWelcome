@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceWelcome", "ConferenceWelcome\ConferenceWelcome.csproj", "{83BBEB87-034C-40E9-94E3-07D680308DED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83BBEB87-034C-40E9-94E3-07D680308DED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BBEB87-034C-40E9-94E3-07D680308DED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {011615EE-E72E-4B97-8E84-3668308E7E0F}
+	EndGlobalSection
+EndGlobal
